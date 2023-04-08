@@ -46,3 +46,9 @@ dribble_url: https://dribbble.com/pixelhint
 rss_url:
 instagram_url:
 youtube_url:
+
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: magnetic
+
